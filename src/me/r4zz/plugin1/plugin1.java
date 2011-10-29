@@ -31,3 +31,5 @@ public class plugin1 extends JavaPlugin {
 	}
 
 }
+
+//second version

@@ -24,3 +24,5 @@ public class ServerChatPlayerListener extends PlayerListener {
 		}
 	}
 }
+
+//second version
