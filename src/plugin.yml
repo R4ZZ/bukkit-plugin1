@@ -1,0 +1,6 @@
+name: plugin1
+main: me.r4zz.plugin1.plugin1
+version: 1.0
+description: >
+             Hello World!
+commands:
